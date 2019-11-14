@@ -1,0 +1,2 @@
+# pokedexJs
+Pokedex in Javascript. 
